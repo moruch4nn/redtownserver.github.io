@@ -37,9 +37,9 @@ RTSを６年支えている鯖主。たまに動画投稿をしていたり、�
 RTSのプラグイン系統の制作を支えている**優しい**プログラマー。このサイトも制作している。LINEはローマ字本名で、180度反転させると読めるようになる。
 [Twitter](https://twitter.com/Toto31010) 
 
-#### moru3_48
+#### moruch4nn
 RTSのイベントプラグインを支える猛者。逃走中プラグインの制作などをしている。面白いを超えて頭がおかしい、いじられキャラ。
-[Twitter](https://twitter.com/moru3_48) 
+[Twitter](https://twitter.com/moruch4nn) 
 
 
 
