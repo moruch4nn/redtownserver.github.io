@@ -51,7 +51,7 @@ RTSのイベントプラグインを支える猛者。逃走中プラグイン�
 
 #### DoremiMS
 人気企画「青鬼」のコマンド制作者であり、主にイベントの動作に関わるコマンドを制作している。RTS運営がふざけだす元凶の一人。
-[Twitter](https://twitter.com/DoremiMS) [YouTube](https://www.youtube.com/channel/UCYoXOU_H-IYKN_jVMjnanpA) 
+[Twitter](https://twitter.com/DoremiMS_) [YouTube](https://www.youtube.com/channel/UCYoXOU_H-IYKN_jVMjnanpA) [Twitch](https://www.twitch.tv/doremi_ms) 
 
 
 
